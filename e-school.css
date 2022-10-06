@@ -27,7 +27,8 @@ height:80px;
     .card1:hover{box-shadow: 0 20px 40px rgba(0,0,0,0.1);
        background:white;
     }
-
+    .course-img{padding: 0 15px;}
+    
 footer{padding-top:80px;
 color: #CDCDCD;
 font-family: 'Poppins', sans-serif;
